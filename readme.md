@@ -56,6 +56,7 @@ The **Flickr30k** dataset is utilized, comprising 31,014 images, each annotated 
 ## Conclusion
 This study highlights the evolution of image captioning models from CNN-LSTM architectures to attention-enhanced and transformer-based models. The findings underscore the importance of attention mechanisms and the transformative potential of pretrained models for improving image captioning systems.
 
+References:
 
 :notebook: [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 
