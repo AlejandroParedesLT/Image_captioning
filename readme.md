@@ -24,7 +24,11 @@ The **Flickr30k** dataset is utilized, comprising 31,014 images, each annotated 
 
 ## Results
 - The **attention-enhanced LSTM model** significantly improves caption quality compared to the baseline CNN-LSTM architecture.
+![image](https://github.com/user-attachments/assets/9e7fae8b-6bc5-4e2f-ac9c-232972cfdd82)
+
 - The **transformer-based model** shows state-of-the-art performance, emphasizing its suitability for image captioning tasks.
+![image](https://github.com/user-attachments/assets/8e704c08-e8ed-42ce-8796-ebc45eb82150)
+
 
 ## Implementation Details
 ### Environment
